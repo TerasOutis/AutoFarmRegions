@@ -1,7 +1,7 @@
 name: AutoFarmRegions
 version: '${project.version}'
 main: com.example.autofarmregions.AutoFarmRegions
-api-version: '1.19'
+api-version: '1.21'
 depend: [WorldGuard]
 description: |
   Automates farming tasks within WorldGuard regions.
